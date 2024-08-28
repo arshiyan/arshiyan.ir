@@ -1,0 +1,1 @@
+vless://cb293844-2b9b-4701-a185-3bb34cb1808d@server.mjpanel.ir:55490?type=tcp&security=none#rooyesh2-javad
